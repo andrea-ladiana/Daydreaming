@@ -1,0 +1,304 @@
+\begin{thebibliography}{10}
+
+\bibitem{Hopfield1982}
+J.~J. Hopfield.
+\newblock Neural networks and physical systems with emergent collective computational abilities.
+\newblock {\em Proc Natl Acad Sci U S A}, 79(8):2554--8, 1982.
+
+\bibitem{hebb1949organization}
+Donald~O. Hebb.
+\newblock {\em The Organization of Behavior: {A} Neuropsychological Theory}.
+\newblock Wiley, New York, 1949.
+
+\bibitem{amit1985storing}
+Daniel~J Amit, Hanoch Gutfreund, and Haim Sompolinsky.
+\newblock Storing infinite numbers of patterns in a spin-glass model of neural networks.
+\newblock {\em Physical Review Letters}, 55(14):1530, 1985.
+
+\bibitem{amit1987statistical}
+Daniel~J Amit, Hanoch Gutfreund, and Haim Sompolinsky.
+\newblock Statistical mechanics of neural networks near saturation.
+\newblock {\em Annals of physics}, 173(1):30--67, 1987.
+
+\bibitem{amit1989modeling}
+Daniel~J Amit.
+\newblock {\em Modeling brain function: The world of attractor neural networks}.
+\newblock Cambridge university press, 1989.
+
+\bibitem{gardner1987multiconnected}
+E~Gardner.
+\newblock Multiconnected neural network models.
+\newblock {\em Journal of Physics A: Mathematical and General}, 20(11):3453, 1987.
+
+\bibitem{krotov2016dense}
+Dmitry Krotov and John~J Hopfield.
+\newblock Dense associative memory for pattern recognition.
+\newblock {\em Advances in neural information processing systems}, 29, 2016.
+
+\bibitem{agliari2023dense}
+Elena Agliari, Linda Albanese, Francesco Alemanno, Andrea Alessandrelli, Adriano Barra, Fosca Giannotti, Daniele Lotito, and Dino Pedreschi.
+\newblock Dense hebbian neural networks: a replica symmetric picture of supervised learning.
+\newblock {\em Physica A: Statistical Mechanics and its Applications}, page 129076, 2023.
+
+\bibitem{demircigil2017model}
+Mete Demircigil, Judith Heusel, Matthias L{\"o}we, Sven Upgang, and Franck Vermet.
+\newblock On a model of associative memory with huge storage capacity.
+\newblock {\em Journal of Statistical Physics}, 168:288--299, 2017.
+
+\bibitem{ramsauer2020hopfield}
+Hubert Ramsauer, Bernhard Sch{\"a}fl, Johannes Lehner, Philipp Seidl, Michael Widrich, Thomas Adler, Lukas Gruber, Markus Holzleitner, Milena Pavlovi{\'c}, Geir~Kjetil Sandve, et~al.
+\newblock Hopfield networks is all you need.
+\newblock {\em arXiv preprint arXiv:2008.02217}, 2020.
+
+\bibitem{lucibello2023exponential}
+Carlo Lucibello and Marc M{\'e}zard.
+\newblock The exponential capacity of dense associative memories.
+\newblock {\em arXiv preprint arXiv:2304.14964}, 2023.
+
+\bibitem{Hopfield1983}
+J.~J. Hopfield, D.~I. Feinstein, and R.~G. Palmer.
+\newblock "unlearning" has a stabilizing effect in collective memories.
+\newblock {\em Nature}, 304(5922):158--159, 1983.
+
+\bibitem{crick1983function}
+Francis Crick and Graeme Mitchison.
+\newblock The function of dream sleep.
+\newblock {\em Nature}, 304:111--114, 1983.
+
+\bibitem{van1990increasing}
+JL~Van~Hemmen, LB~Ioffe, R~K{\"u}hn, and M~Vaas.
+\newblock Increasing the efficiency of a neural network through unlearning.
+\newblock {\em Physica A: Statistical Mechanics and its Applications}, 163(1):386--392, 1990.
+
+\bibitem{van1992unlearning}
+JL~Van~Hemmen and N~Klemmer.
+\newblock Unlearning and its relevance to rem sleep: Decorrelating correlated data.
+\newblock In {\em Neural Network Dynamics: Proceedings of the Workshop on Complex Dynamics in Neural Networks, June 17--21 1991 at IIASS, Vietri, Italy}, pages 30--43. Springer, 1992.
+
+\bibitem{van1997hebbian}
+JL~Van~Hemmen.
+\newblock Hebbian learning, its correlation catastrophe, and unlearning.
+\newblock {\em Network: Computation in Neural Systems}, 8(3):V1, 1997.
+
+\bibitem{fachechi2019dreaming}
+Alberto Fachechi, Elena Agliari, and Adriano Barra.
+\newblock Dreaming neural networks: forgetting spurious memories and reinforcing pure ones.
+\newblock {\em Neural Networks}, 112:24--40, 2019.
+
+\bibitem{personnaz1985information}
+L~Personnaz, I~Guyon, and G~Dreyfus.
+\newblock Information storage and retrieval in spin-glass like neural networks.
+\newblock {\em Journal de Physique Lettres}, 46(8):359--365, 1985.
+
+\bibitem{kanter1987associative}
+I~Kanter and Haim Sompolinsky.
+\newblock Associative recall of memory without errors.
+\newblock {\em Physical Review A}, 35(1):380, 1987.
+
+\bibitem{goldt2020modeling}
+Sebastian Goldt, Marc M{\'e}zard, Florent Krzakala, and Lenka Zdeborov{\'a}.
+\newblock Modeling the influence of data structure on learning in neural networks: The hidden manifold model.
+\newblock {\em Physical Review X}, 10(4):041044, 2020.
+
+\bibitem{gerace2022probing}
+Federica Gerace, Luca Saglietti, Stefano~Sarao Mannelli, Andrew Saxe, and Lenka Zdeborov{\'a}.
+\newblock Probing transfer learning with a model of synthetic correlated datasets.
+\newblock {\em Machine Learning: Science and Technology}, 3(1):015030, 2022.
+
+\bibitem{baldassi2022learning}
+Carlo Baldassi, Clarissa Lauditi, Enrico~M Malatesta, Rosalba Pacelli, Gabriele Perugini, and Riccardo Zecchina.
+\newblock Learning through atypical phase transitions in overparameterized neural networks.
+\newblock {\em Physical Review E}, 106(1):014116, 2022.
+
+\bibitem{rahimi2007random}
+Ali Rahimi and Benjamin Recht.
+\newblock Random features for large-scale kernel machines.
+\newblock {\em Advances in neural information processing systems}, 20, 2007.
+
+\bibitem{louart2018random}
+Cosme Louart, Zhenyu Liao, and Romain Couillet.
+\newblock A random matrix approach to neural networks.
+\newblock {\em The Annals of Applied Probability}, 28(2):1190--1248, 2018.
+
+\bibitem{mei2022generalization}
+Song Mei and Andrea Montanari.
+\newblock The generalization error of random features regression: Precise asymptotics and the double descent curve.
+\newblock {\em Communications on Pure and Applied Mathematics}, 75(4):667--766, 2022.
+
+\bibitem{negri2023storage}
+Matteo Negri, Clarissa Lauditi, Gabriele Perugini, Carlo Lucibello, and Enrico Malatesta.
+\newblock Storage and learning phase transitions in the random-features hopfield model.
+\newblock {\em Physical Review Letters}, 131(25):257301, 2023.
+
+\bibitem{gardner1988space}
+Elizabeth Gardner.
+\newblock The space of interactions in neural network models.
+\newblock {\em Journal of physics A: Mathematical and general}, 21(1):257, 1988.
+
+\bibitem{dotsenko1991replica}
+VS~Dotsenko and B~Tirozzi.
+\newblock Replica symmetry breaking in neural networks with modified pseudo-inverse interactions.
+\newblock {\em Journal of Physics A: Mathematical and General}, 24(21):5163, 1991.
+
+\bibitem{dotsenko1991statistical}
+VS~Dotsenko, ND~Yarunin, and EA~Dorotheyev.
+\newblock Statistical mechanics of hopfield-like neural networks with modified interactions.
+\newblock {\em Journal of Physics A: Mathematical and General}, 24(10):2419, 1991.
+
+\bibitem{gardner1989training}
+EJ~Gardner, DJ~Wallace, and N~Stroud.
+\newblock Training with noise and the storage of correlated patterns in a neural network model.
+\newblock {\em Journal of Physics A: Mathematical and General}, 22(12):2019, 1989.
+
+\bibitem{der1992modified}
+R~Der, VS~Dotsenko, and B~Tirozzi.
+\newblock Modified pseudo-inverse neural networks storing correlated patterns.
+\newblock {\em Journal of Physics A: Mathematical and General}, 25(10):2843, 1992.
+
+\bibitem{plakhov1992modified}
+AY~Plakhov and SA~Semenov.
+\newblock The modified unlearning procedure for enhancing storage capacity in hopfield network.
+\newblock In {\em [Proceedings] 1992 RNNS/IEEE Symposium on Neuroinformatics and Neurocomputers}, pages 242--251. IEEE, 1992.
+
+\bibitem{plakhov1994converging}
+A~Yu Plakhov.
+\newblock The converging unlearning algorithm for the hopfield neural network: optimal strategy.
+\newblock In {\em Proceedings of the 12th IAPR International Conference on Pattern Recognition, Vol. 3-Conference C: Signal Processing (Cat. No. 94CH3440-5)}, volume~2, pages 104--106. IEEE, 1994.
+
+\bibitem{plakhov1995convergent}
+A~Yu Plakhov, Serguei~A Semenov, and Irina~B Shuvalova.
+\newblock Convergent unlearning algorithm for the hopfield neural network.
+\newblock In {\em Proceedings 1995 Second New Zealand International Two-Stream Conference on Artificial Neural Networks and Expert Systems}, pages 30--33. IEEE, 1995.
+
+\bibitem{nokura1996paramagnetic}
+Kazuo Nokura.
+\newblock Paramagnetic unlearning in neural network models.
+\newblock {\em Physical Review E}, 54(5):5571, 1996.
+
+\bibitem{nokura1996unlearning}
+Kazuo Nokura.
+\newblock Unlearning in the paramagnetic phase of neural network models.
+\newblock {\em Journal of Physics A: Mathematical and General}, 29(14):3871, 1996.
+
+\bibitem{parisi1986memory}
+Giorgio Parisi.
+\newblock A memory which forgets.
+\newblock {\em Journal of Physics A: Mathematical and General}, 19(10):L617, 1986.
+
+\bibitem{Marinari2019}
+Enzo Marinari.
+\newblock Forgetting memories and their attractiveness.
+\newblock {\em Neural Comput}, 31(3):503--516, 2019.
+
+\bibitem{benedetti2023eigenvector}
+Marco Benedetti, Louis Carillo, Enzo Marinari, and Marc M{\`e}zard.
+\newblock Eigenvector dreaming.
+\newblock {\em arXiv preprint arXiv:2308.13445}, 2023.
+
+\bibitem{benedetti2022supervised}
+Marco Benedetti, Enrico Ventura, Enzo Marinari, Giancarlo Ruocco, and Francesco Zamponi.
+\newblock Supervised perceptron learning vs unsupervised hebbian unlearning: Approaching optimal memory retrieval in hopfield-like networks.
+\newblock {\em J Chem Phys}, 156:104107, 2022.
+
+\bibitem{benedetti2023training}
+Marco Benedetti and Enrico Ventura.
+\newblock Training neural networks with structured noise improves classification and generalization.
+\newblock {\em arXiv preprint arXiv:2302.13417}, 2023.
+
+\bibitem{agliari2023regularization}
+Elena Agliari, Miriam Aquaro, Francesco Alemanno, and Alberto Fachechi.
+\newblock Regularization, early-stopping and dreaming: a hopfield-like setup to address generalization and overfitting.
+\newblock {\em arXiv preprint arXiv:2308.01421}, 2023.
+
+\bibitem{mackay2003information}
+David~JC MacKay.
+\newblock {\em Information theory, inference and learning algorithms}.
+\newblock Cambridge university press, 2003.
+
+\bibitem{hinton2005contrastive}
+Miguel~\'A. Carreira-Perpi{\~n}\'an and Geoffrey Hinton.
+\newblock On contrastive divergence learning.
+\newblock In Robert~G. Cowell and Zoubin Ghahramani, editors, {\em Proceedings of the Tenth International Workshop on Artificial Intelligence and Statistics}, volume~R5 of {\em Proceedings of Machine Learning Research}, pages 33--40. PMLR, 06--08 Jan 2005.
+\newblock Reissued by PMLR on 30 March 2021.
+
+\bibitem{decelle2021restricted}
+Aur{\'e}lien Decelle and Cyril Furtlehner.
+\newblock Restricted boltzmann machine: Recent advances and mean-field theory.
+\newblock {\em Chinese Physics B}, 30(4):040202, 2021.
+
+\bibitem{lecun2015deep}
+Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+\newblock Deep learning.
+\newblock {\em nature}, 521(7553):436--444, 2015.
+
+\bibitem{kojima1995capacity}
+Tetsuya Kojima, Hidetoshi Nonaka, and Tsutomu Da-Te.
+\newblock Capacity of the associative memory using the boltzmann machine learning.
+\newblock In {\em Proceedings of ICNN'95-International Conference on Neural Networks}, volume~5, pages 2572--2577. IEEE, 1995.
+
+\bibitem{baldassi2018inverse}
+Carlo Baldassi, Federica Gerace, Luca Saglietti, and Riccardo Zecchina.
+\newblock From inverse problems to learning: a statistical mechanics approach.
+\newblock In {\em Journal of Physics: Conference Series}, volume 955, page 012001. IOP Publishing, 2018.
+
+\bibitem{braunstein2011inference}
+Alfredo Braunstein, Abolfazl Ramezanpour, Riccardo Zecchina, and Pan Zhang.
+\newblock Inference and learning in sparse systems with multiple states.
+\newblock {\em Physical Review E}, 83(5):056114, 2011.
+
+\bibitem{saglietti2018statistical}
+Luca Saglietti, Federica Gerace, Alessandro Ingrosso, Carlo Baldassi, and Riccardo Zecchina.
+\newblock From statistical inference to a differential learning rule for stochastic neural networks.
+\newblock {\em Interface Focus}, 8(6):20180033, 2018.
+
+\bibitem{poppel1987dynamical}
+G~P{\"o}ppel and U~Krey.
+\newblock Dynamical learning process for recognition of correlated patterns in symmetric spin glass models.
+\newblock {\em Europhysics Letters}, 4(9):979, 1987.
+
+\bibitem{lecun1998gradient}
+Yann LeCun, L{\'e}on Bottou, Yoshua Bengio, and Patrick Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
+\bibitem{belyaev2020classification}
+MA~Belyaev and AA~Velichko.
+\newblock Classification of handwritten digits using the hopfield network.
+\newblock In {\em IOP conference series: materials science and engineering}, volume 862, page 052048. IOP Publishing, 2020.
+
+\bibitem{nouri2023eigen}
+Ali Nouri and Seyyed~Ali Seyyedsalehi.
+\newblock Eigen value based loss function for training attractors in iterated autoencoders.
+\newblock {\em Neural Networks}, 2023.
+
+\bibitem{amit1987information}
+Daniel~J Amit, Hanoch Gutfreund, and Haim Sompolinsky.
+\newblock Information storage in neural networks with low levels of activity.
+\newblock {\em Physical Review A}, 35(5):2293, 1987.
+
+\bibitem{fontanari1990storage}
+Jos{\'e}~Fernando Fontanari and WK~Theumann.
+\newblock On the storage of correlated patterns in hopfield's model.
+\newblock {\em Journal de Physique}, 51(5):375--386, 1990.
+
+\bibitem{lowe1998storage}
+Matthias L{\"o}we.
+\newblock On the storage capacity of hopfield models with correlated patterns.
+\newblock {\em The Annals of Applied Probability}, 8(4):1216--1250, 1998.
+
+\bibitem{alemanno2023supervised}
+Francesco Alemanno, Miriam Aquaro, Ido Kanter, Adriano Barra, and Elena Agliari.
+\newblock Supervised hebbian learning.
+\newblock {\em Europhysics Letters}, 141(1):11001, 2023.
+
+\bibitem{decelle2021equilibrium}
+Aur{\'e}lien Decelle, Cyril Furtlehner, and Beatriz Seoane.
+\newblock Equilibrium and non-equilibrium regimes in the learning of restricted boltzmann machines.
+\newblock {\em Advances in Neural Information Processing Systems}, 34:5345--5359, 2021.
+
+\bibitem{agoritsas2023explaining}
+Elisabeth Agoritsas, Giovanni Catania, Aur{\'e}lien Decelle, and Beatriz Seoane.
+\newblock Explaining the effects of non-convergent mcmc in the training of energy-based models.
+\newblock In {\em International Conference on Machine Learning}, pages 322--336. PMLR, 2023.
+
+\end{thebibliography}
