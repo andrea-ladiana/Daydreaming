@@ -1,0 +1,49 @@
+
+DAYDREAMING HOPFIELD NETWORKS - RESULTS SUMMARY
+===============================================
+Timestamp: 20250620_115834
+Network size: N = 1000
+Load parameters tested: alpha = [0.1, 0.2, 0.4, 1.0]
+Feature density: alpha_D = 0.1
+
+CONVERGENCE ANALYSIS:
+- Tau values tested: [16, 32, 64, 128, 256]
+- Training epochs: 20
+- Test load: alpha = 0.2
+
+RETRIEVAL PERFORMANCE:
+- alpha = 0.1: Final magnetization = 1.000, Basin size = 0.67
+- alpha = 0.2: Final magnetization = 1.000, Basin size = 0.38
+- alpha = 0.4: Final magnetization = 0.835, Basin size = 0.00
+- alpha = 1.0: Final magnetization = 0.018, Basin size = 0.00
+
+UNCORRELATED vs CORRELATED COMPARISON:
+- alpha = 0.1:
+  * Uncorrelated: Basin = 0.67, Stability = 1.000
+  * Correlated: Basin = 0.71, Stability = 1.000
+  * Improvement: 1.07x larger basin for correlated data
+- alpha = 0.2:
+  * Uncorrelated: Basin = 0.38, Stability = 0.967
+  * Correlated: Basin = 0.48, Stability = 0.999
+  * Improvement: 1.25x larger basin for correlated data
+- alpha = 1.0:
+  * Uncorrelated: Basin = 0.00, Stability = 0.014
+  * Correlated: Basin = 0.00, Stability = 0.619
+  * Improvement: infx larger basin for correlated data
+
+FEATURE ANALYSIS:
+- Pattern stability: 0.813
+- Feature stability: 0.917
+- Pattern basin size: 0.00
+- Feature basin size: 0.00
+
+FILES SAVED:
+- parameters.pkl: Experiment parameters
+- datasets.pkl: All generated patterns and features
+- convergence_analysis.pkl: Convergence metrics for different tau values
+- retrieval_maps_uncorrelated.pkl: Retrieval maps for uncorrelated data
+- retrieval_evolution.pkl: Evolution of retrieval maps during training
+- comparison_uncorr_vs_corr.pkl: Performance comparison results
+- feature_analysis.pkl: Feature retrieval analysis
+- trained_networks.pkl: Final coupling matrices
+- summary_report.txt: This summary
